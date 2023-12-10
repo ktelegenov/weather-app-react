@@ -1,0 +1,16 @@
+.description 
+{
+    color: #868B94;
+}
+
+.weather-card {
+    color: #4B515D;
+    border-radius: 35px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #333;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e0e0e0;
+  }
